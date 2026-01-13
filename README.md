@@ -118,7 +118,7 @@ A **one-page executive dashboard** was designed to help hotel owners make quick 
   * Arrival Month
   * Market Segment
 
-*(Insert Dashboard Screenshot)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/e60460de574fed5450699d67222fc3a4060d34fa/Screenshot%20(179).png)
 
 ---
 
