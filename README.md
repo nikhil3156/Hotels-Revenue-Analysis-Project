@@ -51,7 +51,7 @@ The following visual analyses were performed (only high-impact business visuals 
 **Chart:** Column Chart
 **Insight:** Clear seasonality observed. Peak months show significantly higher bookings.
 
-*(Insert Chart: Monthly Booking Trend)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/dd9b399f1a04d5697d24921d654d2e88b355051a/Screenshot%20(173).png)
 
 ---
 
@@ -60,7 +60,7 @@ The following visual analyses were performed (only high-impact business visuals 
 **Chart:** Bar Chart
 **Insight:** City hotels receive more bookings compared to resort hotels, indicating higher urban demand.
 
-*(Insert Chart: Bookings by Hotel Type)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/dd9b399f1a04d5697d24921d654d2e88b355051a/Screenshot%20(174).png)
 
 ---
 
@@ -69,7 +69,7 @@ The following visual analyses were performed (only high-impact business visuals 
 **Chart:** Bar Chart
 **Insight:** Early bookings (lead time > 30 days) show much higher cancellation rates.
 
-*(Insert Chart: Cancellation by Lead Time)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/dd9b399f1a04d5697d24921d654d2e88b355051a/Screenshot%20(175).png)
 
 ---
 
@@ -78,7 +78,7 @@ The following visual analyses were performed (only high-impact business visuals 
 **Chart:** Box Plot / Column Chart
 **Insight:** Higher-priced bookings are more likely to be canceled, indicating price sensitivity.
 
-*(Insert Chart: ADR vs Cancellation)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/dd9b399f1a04d5697d24921d654d2e88b355051a/Screenshot%20(176).png)
 
 ---
 
@@ -87,7 +87,7 @@ The following visual analyses were performed (only high-impact business visuals 
 **Chart:** Bar Chart
 **Insight:** Repeat guests cancel significantly less and represent more reliable revenue.
 
-*(Insert Chart: Repeat Guest vs Cancellation)*
+![image alt](https://github.com/nikhil3156/Hotels-Revenue-Analysis-Project/blob/dd9b399f1a04d5697d24921d654d2e88b355051a/Screenshot%20(177).png)
 
 ---
 
